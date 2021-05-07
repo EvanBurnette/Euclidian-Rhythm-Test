@@ -1,0 +1,11 @@
+[
+    {"onsets": 7, "pulses": 16, "solution": "1001010100101010"},
+    {"onsets": 4, "pulses": 7, "solution": "1010101"},
+    {"onsets": 4, "pulses": 9, "solution": "101010100"},
+    {"onsets": 3, "pulses": 8, "solution": "10010010"},
+    {"onsets": 1, "pulses": 2, "solution": "10"},
+    {"onsets": 1, "pulses": 3, "solution": "100"},
+    {"onsets": 4, "pulses": 12, "solution": "100100100100"},
+    {"onsets": 2, "pulses": 3, "solution": "101"},
+    {"onsets": 4, "pulses": 6, "solution": "101101"}
+]
